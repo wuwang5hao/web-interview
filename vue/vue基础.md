@@ -136,3 +136,6 @@ SEO 难度较大：由于所有的内容都在一个页面中动态替换显示�
 
 
 
+
+props，methods,data和computed的初始化都是在beforeCreated和created之间完成的。
+
